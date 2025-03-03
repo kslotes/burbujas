@@ -4,6 +4,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("/api/factura")
+@RequestMapping("/api/v1/factura")
 public class FacturaController {
 }

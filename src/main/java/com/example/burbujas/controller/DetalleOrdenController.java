@@ -4,6 +4,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("/api/detalleorden")
+@RequestMapping("/api/v1/detalleorden")
 public class DetalleOrdenController {
 }
